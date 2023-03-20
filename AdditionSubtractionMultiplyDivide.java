@@ -1,5 +1,3 @@
-package BasicOfJava;
-
 public class AdditionSubtractionMultiplyDivide {
 
 	public static void main(String[] args) {
